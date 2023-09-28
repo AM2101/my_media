@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my_media/static/css/main.7064deb2.css",
+    "main.js": "/my_media/static/js/main.32ef5ec0.js",
+    "index.html": "/my_media/index.html",
+    "main.7064deb2.css.map": "/my_media/static/css/main.7064deb2.css.map",
+    "main.32ef5ec0.js.map": "/my_media/static/js/main.32ef5ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.32ef5ec0.js"
+  ]
+}
